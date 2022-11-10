@@ -1,0 +1,15 @@
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.csproj.AssemblyReference.cache
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.csproj.SuggestedBindingRedirects.cache
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.AssemblyInfoInputs.cache
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.AssemblyInfo.cs
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.csproj.CoreCompileInputs.cache
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\SampleServer.exe.config
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\SampleServer.exe
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\SampleServer.pdb
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\Nancy.dll
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\Nancy.Hosting.Self.dll
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\bin\Debug\net48\RandomNameGeneratorLibrary.dll
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.csproj.CopyComplete
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.exe
+C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\obj\Debug\net48\SampleServer.pdb

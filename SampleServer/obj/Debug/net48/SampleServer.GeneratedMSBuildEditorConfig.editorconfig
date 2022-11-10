@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SampleServer
+build_property.ProjectDir = C:\Source\dotnetawsworkshop\.NET-Development-AWS-Workshop\SampleServer\

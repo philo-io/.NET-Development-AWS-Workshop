@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Nancy/2.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net452/Nancy.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nancy.dll": {}
+        }
+      },
+      "Nancy.Hosting.Self/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Nancy": "2.0.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net452/Nancy.Hosting.Self.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nancy.Hosting.Self.dll": {}
+        }
+      },
+      "RandomNameGeneratorLibrary/1.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/RandomNameGeneratorLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RandomNameGeneratorLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win7-x86": {
+      "Nancy/2.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net452/Nancy.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nancy.dll": {}
+        }
+      },
+      "Nancy.Hosting.Self/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Nancy": "2.0.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net452/Nancy.Hosting.Self.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nancy.Hosting.Self.dll": {}
+        }
+      },
+      "RandomNameGeneratorLibrary/1.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/RandomNameGeneratorLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RandomNameGeneratorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nancy/2.0.0": {
+      "sha512": "z2GMxQFbDbxqzCfkomyeqLNXW4G2NdvU727HBaP+QQ0/hm1jw9PTqHyzoB2M9aKeC5AKYmQmt9GvwR5CHL/ReA==",
+      "type": "package",
+      "path": "nancy/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/Nancy.dll",
+        "lib/net452/Nancy.xml",
+        "lib/netstandard2.0/Nancy.dll",
+        "lib/netstandard2.0/Nancy.xml",
+        "nancy.2.0.0.nupkg.sha512",
+        "nancy.nuspec"
+      ]
+    },
+    "Nancy.Hosting.Self/2.0.0": {
+      "sha512": "bVusVYasJmwhJr4RVeVZYZctrUiME1JTZmydrnrxjMZBIEBZsGEmLIxcxXazEAvzfG6Z8dB2ocwlZCt1aX+70g==",
+      "type": "package",
+      "path": "nancy.hosting.self/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/Nancy.Hosting.Self.dll",
+        "lib/net452/Nancy.Hosting.Self.xml",
+        "nancy.hosting.self.2.0.0.nupkg.sha512",
+        "nancy.hosting.self.nuspec"
+      ]
+    },
+    "RandomNameGeneratorLibrary/1.2.2": {
+      "sha512": "Sz9eseIDKZ99yopg4TEAGPVIoGOKWYsWDHIfGQENXlOJYBoIsL68rqe9jrc9yP+/dOYH5RaCag6d8ykaqsbFFw==",
+      "type": "package",
+      "path": "randomnamegeneratorlibrary/1.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/RandomNameGeneratorLibrary.dll",
+        "lib/netstandard1.6/RandomNameGeneratorLibrary.dll",
+        "randomnamegeneratorlibrary.1.2.2.nupkg.sha512",
+        "randomnamegeneratorlibrary.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Nancy >= 2.0.0",
+      "Nancy.Hosting.Self >= 2.0.0",
+      "RandomNameGeneratorLibrary >= 1.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LukeE\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Source\\dotnetawsworkshop\\.NET-Development-AWS-Workshop\\SampleServer\\SampleServer.csproj",
+      "projectName": "SampleServer",
+      "projectPath": "C:\\Source\\dotnetawsworkshop\\.NET-Development-AWS-Workshop\\SampleServer\\SampleServer.csproj",
+      "packagesPath": "C:\\Users\\LukeE\\.nuget\\packages\\",
+      "outputPath": "C:\\Source\\dotnetawsworkshop\\.NET-Development-AWS-Workshop\\SampleServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LukeE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\LukeE\\.dotnet\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Nancy": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "Nancy.Hosting.Self": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "RandomNameGeneratorLibrary": {
+            "target": "Package",
+            "version": "[1.2.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.111\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
